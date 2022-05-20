@@ -1,0 +1,3 @@
+> keras-facenet model
+> 'img_celeba' folder should be placed inside folder 'image_data'. Path to image would be base_dir/000001.jpg 
+  where base_dir = 'image_data/img_celeba'. 
